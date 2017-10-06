@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks: Why Build Your Own Chair?
+title: UI Frameworks, Why Build Your Own Chair?
 date: 2017-09-18
 labels:
   - Software Engineering
