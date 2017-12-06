@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks, Why Build Your Own Chair?
+title: The Industrial Coding Revolution
 date: 2017-09-18
 labels:
   - Software Engineering
