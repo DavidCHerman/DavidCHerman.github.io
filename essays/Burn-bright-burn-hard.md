@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks, Why Build Your Own Chair?
+title: Burn Bright, Burn Hard
 date: 2017-09-18
 labels:
   - Software Engineering
-  - Educational
-  - UI Frameworks
+  - Meteor
 ---
 
 To say that I was blindsided by Meteor wouldn't be fair. We received ample warning about how difficult it was going to be and while that did help to brace me, I didn't quite understand the scope of how lost I would be until much later. I am quite happy to say that now I have a reasonably good idea of how to work through Meteor and I'm very glad to have had this experience.
