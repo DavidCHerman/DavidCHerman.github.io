@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: Burn bright, burn hard
-date: 2017-10-26
+title: The Industrial Coding Revolution
+date: 2017-12-5
 labels:
-  - Meteor
+  - Design Patterns
   - Software Engineering
 ---
 
