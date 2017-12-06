@@ -4,13 +4,12 @@ type: project
 image: images/ka-leo-room.jpg
 title: Ka Leo Special Issues
 permalink: projects/specialissue
-date: October 2014
+date: 2014
 labels:
   - Journalism
   - Project Management
 summary: Managed the production of the Ka Leo Special Issues Paper
 ---
-
 
 <img class="ui medium centered rounded image" src="/images/ka-leo-room.jpg">
 
