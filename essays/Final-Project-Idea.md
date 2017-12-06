@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: The Industrial Coding Revolution
-date: 2017-12-5
+date: 2017-9-18
 labels:
   - Software Engineering
   - Design Patterns
