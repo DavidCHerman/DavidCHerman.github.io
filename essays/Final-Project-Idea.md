@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: The Industrial Coding Revolution
-date: 2017-12-5
+title: UI Frameworks, Why Build Your Own Chair?
+date: 2017-09-18
 labels:
   - Software Engineering
-  - Design Patterns
+  - Educational
+  - UI Frameworks
 ---
 
 Long ago, when man first put hammer to nail, people built things with their hands. A craftsman in their lifetime would go on to create many, many instances of whatever item they spent their lives perfecting. Some, look fondly back to the days where craftsmen built things by hand, and each piece of fabric was lovingly stiched. I'd be willing to bet though that if the craftsmen had it their way, they'd prefer it if they could just press a button and have a day's work done. This is what we have today, a world where craftsmen design machines that do everything automatically. We have become more efficient, eliminating repetitive tasks with machines. 
