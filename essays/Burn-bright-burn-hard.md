@@ -2,9 +2,9 @@
 layout: essay
 type: essay
 title: Burn Bright, Burn Hard
-date: 2017-12-5
+date:
 labels:
-  - Design Patterns
+  - Meteor
   - Software Engineering
 ---
 
