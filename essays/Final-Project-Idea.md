@@ -1,34 +1,22 @@
+
 ---
 layout: essay
 type: essay
-title: Final Project Idea
-date: 2017-10-19
+title: The Industrial Coding Revolution
+date: 2017-12-5
 labels:
+  - Design Patterns
   - Software Engineering
-  - Meteor
 ---
 
-The problem: It's common knowledge that many students when they enter college run the risk of gaining the Freshmen 15. Those extra pounds that you gain because suddenly your diet changes and you're not properly monitoring your diet. It's a new environment rife with new responsibilities, and the culinary selections are mostly limited to what the school provides.
+Long ago, when man first put hammer to nail, people built things with their hands. A craftsman in their lifetime would go on to create many, many instances of whatever item they spent their lives perfecting. Some, (hipsters) look fondly back to the days where craftsmen built things by hand, and each piece of fabric was lovingly stiched. I'd be willing to bet though that if the craftsmen had it their way, they'd prefer it if they could just press a button and have a day's work done. This is what we have today, a world where craftsmen design machines that do everything automatically. We have become more efficient, eliminating repetitive tasks with machines. 
 
-The solution: The UHM Calorie Counter would be an application that would provide a database of nutrition facts relevant to the food provided on campus. It would be simple enough to gather the information, and once it's logged into the database, students could create a record of their calorie intake or even make personal calorie or weight-loss goals.
+This is the route we've taken in programming, very closely mirroring the progress of the civilization's industry. First we learned programming languages, typing out codes by hand, stictching together for loops if-else statements. Then we gained tools, objects, databases, and frameworks to name a few. These tools made programming much faster and more efficient. Now we've reached the industrial revolution. Machines and methods have been designed that solve common problems in almost every industry. This is what design patterns are. Design patterns are a series of solutions to very common problems that can be repeated and reused.
 
-Mockup Pages:
-- Public landing page
-- Login page
-- Personal profile (Calendar, personal goal setting, meal favorites)
-- Search page (including restaurants and specific meals)
-- Add meals page
-- Restaurant page (includes meal selection and general information)
-- Admin page (edit existing accounts, add restaurants, add meals)
+Design patterns are tried and tested methods for solving common problems. They're a framework used by professionals to protect data, access data, create new data in ways that are generally much more efficient and safe. In the Manoa Recipes project that I'm currently working on, several different design patterns are used. It's not something you notice right away. Before you know what design patterns are, you've typically come across and worked with several.
 
-Case ideas:
-- New student arrives at landing page, creates a new profile, creates calorie goal, searches for food, logs it in, adds to favorite meals
-- Admin logs in, adds a new restaurant, adds meals to the restaurant
-- Existing user logs in, reviews calendar, creates a new meal, logs it.
+Manoa Recipes runs as a Model-View-Controller design pattern. This essentially is a distribution of displaying information, managing information, and controlling the flow between the two of these things. It is of course more complex than this, but the general idea is something of a common problem that most applications run into. The user needs to access the data, but the data needs to be protected. Also, the data needs to be displayed in a way that makes sense to the user, but the efficient way to store data is rarely the ideal way to display it. Manoa Recipes uses Mongo Databases to handle the data in the form of collections, in this case, recipes, profiles, ingredients, and tags. The user views that data through Blaze's templates. FlowRouter moves the user between these different templates to access different parts of the data.
 
-Beyond the basics
-- A warning alert when you're close to or have exceeded a calorie goal including tips and suggestions for alternate foods that would fit the calorie goals.
-- Users can add non campus foods to their own personal database.
-- Includes prices and include a filter that can help students to filter foods down based on price and calorie count.
+While MVC is the frame of the application, the heart lies in another design pattern. Manoa Recipes is a recipe database. Clearly the most important thing in a recipe database is the database. The databases are accessed using the Publish-Subscribe design pattern. Manoa Recipes is a database constantly being updated by its users. Users can add recipes, edit their recipes, and favorite the ones they like. The data is constantly changing, and as such, the data needs to be constantly updated. Publish-Subscribe allows that changing data to be constantly updated. It's a design pattern very useful for reactive databases.
 
-Created by: Christine Adamos, Michael Yoshimura, and David Herman
+We have gotten as far as we have in this world standing on the shoulders of the clever ones that came before us. The most of the problems we face in programming are problems that people have faced many times before. We could spend hours figuring out a method for ourselves, or we could take a well-worn path straight to our goal. We should save our energy and not fight battles already won.
