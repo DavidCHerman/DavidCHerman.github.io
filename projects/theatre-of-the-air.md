@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /images/sound-board.jpeg
+image: images/sound-board.jpeg
 title: The Magnificent Theatre of the Air
 permalink: projects/theatreoftheair
 date: 2016
