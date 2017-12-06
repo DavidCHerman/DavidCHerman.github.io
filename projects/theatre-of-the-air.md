@@ -11,9 +11,9 @@ labels:
 summary: I hosted and organized a radio show that featured live radio dramas using local actors.
 ---
 
-<div class="ui large image">
-  <img class="ui image" src="/images/sound-board.jpeg">
-</div>
+
+  <img class="ui medium right floated rounded image" src="/images/sound-board.jpeg">
+
 
 The Magnificent Theatre of the Air was a radio program I produced, hosted, and directed at KTUH. Initially it was a program for music from the 20s to the 50s, featuring classic popular music and jazz. It was always intended that the program would eventually make music a secondary objective and eventually showcase live and pre-recorded classic radio dramas performed by local actors.
 
