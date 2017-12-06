@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Industrial Coding Revolution
+title: Burn Bright, Burn Hard
 date: 2017-12-5
 labels:
   - Design Patterns
