@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+image: /images/car-suicide.jpg
 title: Programming Suicide
 date: 2017-11-30
 labels:
