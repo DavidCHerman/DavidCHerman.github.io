@@ -17,6 +17,10 @@
         "username": "DavidCHerman",
         "url": "http://github.com/DavidCHerman"
       },
+      {
+        "network": "linkedin",
+        "url": "https://www.linkedin.com/in/david-c-herman/"
+      },
     ]
   },
   "interests": [
@@ -46,6 +50,7 @@
         "Java",
         "Javascript",
         "Semantics UI",
+        "Meteor",
       ]
     },
     {
