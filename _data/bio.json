@@ -68,11 +68,13 @@
       "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.A.",
       "courses": [
-        "Intro to Computer Science I",
-        "Intro to Computer Science II",
-        "Discreet Mathematics I",
-        "Discreet Mathematics II",
-        "Program Structure",
+        "ICS 111 - Intro to Computer Science I",
+        "ICS 211 - Intro to Computer Science II",
+        "ICS 141 - Discreet Mathematics I",
+        "ICS 241 - Discreet Mathematics II",
+        "ICS 212 - Program Structure",
+        "ICS 311 - Algorithms",
+        "ICS 314 - Software Engineering I",
       ]
     }
   ],
