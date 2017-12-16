@@ -11,7 +11,7 @@ labels:
 summary: Managed the production of the Ka Leo Special Issues Paper
 ---
 
-<img class="ui medium centered rounded image" src="/images/ka-leo-room.jpg">
+<img class="ui large centered rounded image" src="/images/ka-leo-room.jpg">
 
 Ka Leo News in 2014 produced special issues every month to supplement their regular weekly paper. The Special Issues desk did not have a dedicated staff, but was responsible for the special themed content for those issues. I was the editor of the Special Issues desk, which had been vacated suddenly. I worked with other desk editors, various staff and guest writers, the production team, the advertising department, and reported directly to the Editor-in-Chief.
 
