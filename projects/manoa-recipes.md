@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing-page.png
+image: images/landing-page-complete.png
 title: Manoa Recipes
 permalink: projects/manoarecipes
 date: 2017
@@ -23,9 +23,13 @@ The application was written in HTML, Javascript, and a minor amount of CSS. We u
 
 Most of my work on the project focused on backend development, focusing on processing user data input and database management. The two pages that took up a majority of my time were: 
 
-The user profile page:<img class="ui medium right floated rounded image" src="/images/favorited-recipes.png">
+<img class="ui medium right floated rounded image" src="/images/favorited-recipes.png">
 
-And the add recipe page:<img class="ui medium right floated rounded image" src="/images/add-recipe.png">
+The user profile page:
+
+<img class="ui medium right floated rounded image" src="/images/add-recipe.png">
+
+And the add recipe page:
 
 
 Working with a group also helped me to learn how to utilize the various strengths of my teammates to maximize efficiency.
