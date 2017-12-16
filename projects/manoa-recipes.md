@@ -16,8 +16,8 @@ summary: Worked collaboratively to create Manoa Recipes, a recipe database for t
 
 [The Manoa Recipes Project Page.](https://manoarecipes.github.io/)
 
-<img class="ui medium right floated rounded image" src="/images/landing-page-complete.png">
 At the end of ICS 314 (Software Engineering I) at University of Hawaii at Manoa, I was tasked along with three other teammates to create an application aimed at improving the UH community. My team consisted of Michael Serai, Kyle Levesque, and Michael Yoshimura. We decided to write a recipe database application that would feature dorm room recipes and information about local grocery sources within driving range of UH Manoa. We named the application Manoa Recipes.
+<img class="ui large centered rounded image" src="/images/landing-page-complete.png">
 
 The application was written in HTML, Javascript, and a minor amount of CSS. We utilized [Meteor](https://www.meteor.com/) as our javascript platform. Throughout the process, I developed a significant, working understanding of [FlowRouter](https://github.com/kadirahq/flow-router), [MongoDB](https://www.mongodb.com/), and [Semantic UI](https://semantic-ui.com/). All the code I wrote was edited and created through [IntelliJ IDEA](https://www.jetbrains.com/idea/).
 
